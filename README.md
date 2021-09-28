@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Dreams</h1>
-<h3 align="center">A Certified Retard</h3>
+<p align="center">
+  <a href="https://github.com/miccafr">
+    <img src="https://discord.c99.nl/widget/theme-2/878017658535149639.png"/>
+     </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inver25k&label=Profile%20views&color=0e75b6&style=flat" alt="inver25k" /> </p>
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=miccafr&title_color=8A2BE2&text_color=e2e2e2&show_icons=true&bg_color=00000000&hide_border=true&icon_color=8A2BE2&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+    </td>
+        <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miccafr&title_color=8A2BE2&text_color=e2e2e2&show_icons=true&bg_color=00000000&hide_border=true&icon_color=8A2BE2&hide_title=true&count_private=true&enable_animations=true" />
+    </td>
+  </tr>
+</p>
 
-- 🔭 I’m currently working on [Eternal](https://eternalcheats.xyz/forum/index.php)
-
-- 💬 Discord: **Dreams#3335**
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/871454393092952124/871460920776355870/unknown.png"/>
+</p>
